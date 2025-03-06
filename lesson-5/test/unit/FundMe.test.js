@@ -40,14 +40,14 @@ const {devlopmentChains} = require("../../helper-hardhat-config")
             await helpers.time.increase(200)
             await helpers.mine()
             //value is greater minimum value
-            expect(fundMe.fund({value: ethers.parseEther("0.1")}))
+            await expect(fundMe.fund({value: ethers.parseEther("0.1")}))
                 .to.be.revertedWith("window is closed")
         }
     )
 
     it("window open, value is less than minimum, fund failed", 
         async function() {
-            expect(fundMe.fund({value: ethers.parseEther("0.01")}))
+            await expect(fundMe.fund({value: ethers.parseEther("0.01")}))
                 .to.be.revertedWith("Send more ETH")
         }
     )
@@ -57,7 +57,7 @@ const {devlopmentChains} = require("../../helper-hardhat-config")
             // greater than minimum
             await fundMe.fund({value: ethers.parseEther("0.1")})
             const balance = await fundMe.fundersToAmount(firstAccount)
-            expect(balance).to.equal(ethers.parseEther("0.1"))
+            await expect(balance).to.equal(ethers.parseEther("0.1"))
         }
     )    
 
