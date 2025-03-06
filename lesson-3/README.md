@@ -5,7 +5,7 @@
 这是 Web3_tutorial 的一部分。<br>
 视频链接：WIP<br>
 
-在第二课，你将会编写第二个智能合约 `FundMe`，通过编写和学习这个智能合约中，我们将会学习到如何在一条区块链上发送原生token给一个合约，记录转账信息，如何提取收集的token，如何设置时间锁。
+在第三课，你将会编写第二个智能合约 `FundMe`，通过编写和学习这个智能合约中，我们将会学习到如何在一条区块链上发送原生token给一个合约，记录转账信息，如何提取收集的token，如何设置时间锁。
 
 在这一课中，你将完成以下合约：
 - `FundMe.sol`合约：该合约是募集资金的合约，通过函数来接受funder的ETH
@@ -42,7 +42,7 @@
 This is part of the Web3_tutorial. <br>
 Video link: WIP<br>
 
-In the second lesson, you will write the second smart contract `FundMe`. By writing and learning about this smart contract, we will learn how to send native tokens to a contract on a blockchain, record transfer information, how to withdraw collected tokens, and how to set a time lock.
+In the third lesson, you will write the second smart contract `FundMe`. By writing and learning about this smart contract, we will learn how to send native tokens to a contract on a blockchain, record transfer information, how to withdraw collected tokens, and how to set a time lock.
 
 In this lesson, you will complete the following contracts:
 
