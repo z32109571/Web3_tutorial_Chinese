@@ -25,7 +25,15 @@ ccip地址查询：https://docs.chain.link/ccip/directory/testnet/chain/ethereum
 测试网账号访问：https://developer.metamask.io/key/active-endpoints
 
 amoy添加信息：
-![Uploading image.png…]()
+name:Polygon Amoy
+
+rpc:https://rpc-amoy.polygon.technology
+
+chainId:80002
+
+symbol:POL
+
+sacn:https://amoy.polygonscan.com
 
 ## 在哪里讨论，问题？
 - [GitHub Discussion](https://github.com/smartcontractkit/Web3_tutorial_Chinese/discussions) 页面<br>
