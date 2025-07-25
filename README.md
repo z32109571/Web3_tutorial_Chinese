@@ -18,6 +18,15 @@ amoy 测试水龙头：https://faucet.polygon.technology/
 
 amoy交易查询：https://amoy.polygonscan.com/
 
+ccip查询：https://ccip.chain.link/
+
+ccip地址查询：https://docs.chain.link/ccip/directory/testnet/chain/ethereum-testnet-sepolia
+
+测试网账号访问：https://developer.metamask.io/key/active-endpoints
+
+amoy添加信息：
+![Uploading image.png…]()
+
 ## 在哪里讨论，问题？
 - [GitHub Discussion](https://github.com/smartcontractkit/Web3_tutorial_Chinese/discussions) 页面<br>
 提课程相关的问题
