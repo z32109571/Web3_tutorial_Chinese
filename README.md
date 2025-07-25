@@ -9,7 +9,10 @@ This tutorial represents an educational example to use a Chainlink system, produ
 Chainlink 测试网水龙头：https://faucets.chain.link <br>
 Alchemy 测试网水龙头：https://sepoliafaucet.com/ <br>
 Infura 测试网水龙头：https://www.infura.io/faucet/sepolia
-
+amoy 测试水龙头：https://faucet.polygon.technology/
+谷歌测试水龙头：https://cloud.google.com/application/web3/faucet
+交易查询：https://sepolia.etherscan.io/
+amoy交易查询：https://amoy.polygonscan.com/
 ## 在哪里讨论，问题？
 - [GitHub Discussion](https://github.com/smartcontractkit/Web3_tutorial_Chinese/discussions) 页面<br>
 提课程相关的问题
